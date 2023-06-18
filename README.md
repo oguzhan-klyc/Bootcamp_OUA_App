@@ -66,8 +66,17 @@ Alınan kararlar: Sprint hedeflerine takım arkadaşlarımızın iş yoğunluğu
 Sprint Review katılımcıları: Elif Sare Kirazlı, Ebru Saki,Oğuzhan Kalaycı, Hira Gülmez, Mehmet Said Hüseyinoğlu
 
 - **Sprint Retrospective:**
-  - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
- 
+  - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.Hangi sorunlar ile karşılaştık ve neler geliştirilmeli konusunda konuştuk.
+
+
+*Hangi Sorunlar İle Karşılaştık?*
+- Takım arkadaşalrının yıl sonu sınavları ve iş temposundan dolayı çok fazla bir araya gelemedik.
+
+*Neler Geliştirilmeli?*
+- Daily Scrum için günlük olarak yazılmalı. Scrum master akşam hatırlatma yaptıktan sonra tekrar yazmak durumunda kalmasın.
+- Sprint backlogları tarihsel anlamda belli hedefler içinde ilerlemeli.
+- Backlog’lar Sprintin son Pazar gününe kalmamalı, daha erken bitirilmeli.
+- Herkes yaptığı işi yaparken daha sık feedback vermeli. 
 
 
 ---
