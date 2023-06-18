@@ -1,0 +1,58 @@
+mport 'package:flutter/material.dart';
+
+void main() => runApp(MyApp());
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: "Özel Cilt Bakım Rutini",
+      home: Iskele(),
+    );
+  }
+}
+
+class Iskele extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text("Cilt Bakım Rutini Uygulaması"),
+      ),
+      body: AnaEkran(),
+    );
+  }
+}
+
+class AnaEkran extends StatefulWidget {
+  @override
+  _AnaEkranState createState() => _AnaEkranState();
+}
+
+class _AnaEkranState extends State<AnaEkran> {
+  TextEditingController t1 = TextEditingController();
+  List alisverisListesi = [];
+  urunEkle() {
+    setState(() {});
+  }
+
+  urunCikar() {
+    setState(() {});
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      child: Column(
+        children: <Widget>[
+          Flexible(child: null),
+          TextField(
+            controller: t1,
+          ),
+          RaisedButton(onPressed: urunEkle),
+          RaisedButton(onPressed: urunCikar),
+        ],
+      ),
+    );
+  }
+}
