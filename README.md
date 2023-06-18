@@ -57,6 +57,7 @@ Routine Care, kullanıcıların cilt sağlığını iyileştirmek, cilt sorunlar
 
 - **Ürün Durumu**: Ekran görüntüleri:
    ![ekran resmi 1](https://github.com/SIYAKS-ARES/Bootcamp_OUA_App/assets/120197015/d5539766-44fc-4623-8e49-b74c43b99281)
+   ![Ekran resmi 2](https://github.com/SIYAKS-ARES/Bootcamp_OUA_App/assets/120197015/7ffa2b5e-f670-45ae-84da-91d695aed70d)
   
 - **Sprint Review**: 
 Alınan kararlar: Sprint hedeflerine takım arkadaşlarımızın iş yoğunluğu ve sınav haftaları dolayısıyla tam olarak ulaşılamadı.
