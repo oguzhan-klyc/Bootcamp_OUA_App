@@ -56,7 +56,7 @@ Routine Care, kullanıcıların cilt sağlığını iyileştirmek, cilt sorunlar
 ![Backlog 1] <img width="1136" alt="Ekran Resmi 2023-06-18 13 18 57" src="https://github.com/SIYAKS-ARES/Bootcamp_OUA_App/assets/120197015/4c0bba9e-4dfd-41c9-8553-15f9c321c046">(https://miro.com/app/board/uXjVM9ufoVY=/#tpicker-content)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![ekran 1](https://github.com/SIYAKS-ARES/Bootcamp_OUA_App/assets/120197015/d275997d-d432-42a3-9aa1-1033b85abb72)  
+   ![ekran resmi 1](https://github.com/SIYAKS-ARES/Bootcamp_OUA_App/assets/120197015/d5539766-44fc-4623-8e49-b74c43b99281)
   
 - **Sprint Review**: 
 Alınan kararlar: Sprint hedeflerine takım arkadaşlarımızın iş yoğunluğu ve sınav haftaları dolayısıyla tam olarak ulaşılamadı.
