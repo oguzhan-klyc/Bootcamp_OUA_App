@@ -55,7 +55,8 @@ Routine Care, kullanıcıların cilt sağlığını iyileştirmek, cilt sorunlar
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1] <img width="1136" alt="Ekran Resmi 2023-06-18 13 18 57" src="https://github.com/SIYAKS-ARES/Bootcamp_OUA_App/assets/120197015/4c0bba9e-4dfd-41c9-8553-15f9c321c046">(https://miro.com/app/board/uXjVM9ufoVY=/#tpicker-content)
 
-- **Ürün Durumu**: Ekran görüntüleri:
+- **Ürün Durumu**:
+   Ekran görüntüleri:
    ![ekran resmi 1](https://github.com/SIYAKS-ARES/Bootcamp_OUA_App/assets/120197015/d5539766-44fc-4623-8e49-b74c43b99281)
    ![Ekran resmi 2](https://github.com/SIYAKS-ARES/Bootcamp_OUA_App/assets/120197015/7ffa2b5e-f670-45ae-84da-91d695aed70d)
   
