@@ -11,7 +11,7 @@ Flutter 59
 - Elif Sare Kirazlı: Product Owner
 - Mehmet Said Hüseyinoğlu: Developer
 - Oğuzhan Kalaycı: Developer
-- Hiraz Gülmez: Developer
+- Hira Gülmez: Developer
 
 ## Ürün İsmi
 
