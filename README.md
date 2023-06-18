@@ -19,8 +19,7 @@ Flutter 59
 
 ## Product Backlog URL
 
-[Flutter Team 59 Miro Backlog Board] <img width="1136" alt="Ekran Resmi 2023-06-18 22 29 00" src="https://github.com/SIYAKS-ARES/Bootcamp_OUA_App/assets/120197015/0ec0a8c3-b7f3-4f33-8f9d-73c7d53f9c12">
-
+[Flutter Team 59 Miro Backlog Board] <img width="1147" alt="Ekran Resmi 2023-06-18 22 37 25" src="https://github.com/SIYAKS-ARES/Bootcamp_OUA_App/assets/120197015/258f627f-245a-4674-a753-91cd203ae358">
 ## Ürün Açıklaması
 
 Routine Care, kullanıcıların cilt sağlığını iyileştirmek, cilt sorunlarını hafifletmek ve genel olarak daha sağlıklı bir cilde sahip olmak için kullanabilecekleri bir dizi ürünün kullanım sıralamasını gösteren kişiselleştirilmiş bir uygulamadır. Uygulama, kullanıcıya cilt bakım rutinini düzenli olarak takip etmesi için hatırlatıcılar gönderir. Bu hatırlatıcılar, temizleme, nemlendirme, güneş koruması gibi günlük rutin adımlarını hatırlatırken, haftalık veya aylık bazda daha özel bakım adımlarını içeren bir dizi özellik içerir.Böylece kullanıcılar, cilt bakımını aksatmadan sürdürebilirler.Kullanıcılar kişisel cilt bakım rutinlerinde yer alan temizleme, tonik, nemlendirme, güneş koruması gibi adımların hangi sıra ile olması gerektiğini sunar.Bu özellikler, kullanıcılara cilt bakım rutinlerini yönetmeleri konusunda rehberlik etmek için bir temel oluşturabilir. Ancak, cilt bakımı kişisel bir konudur ve her bireyin cilt tipi ve ihtiyaçları farklıdır. Bu nedenle, uygulamaların kullanıcılara kişiselleştirilmiş öneriler sunabilmesi önemlidir.
