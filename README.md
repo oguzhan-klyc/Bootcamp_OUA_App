@@ -98,6 +98,11 @@ Sprint Review katılımcıları: Elif Sare Kirazlı, Ebru Saki,Oğuzhan Kalaycı
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
+-
+- <img width="332" alt="Ekran Resmi 2023-07-02 22 18 50" src="https://github.com/oguzhan-klyc/Bootcamp_OUA_App/assets/136269853/74af261e-0dd0-4e81-8c1d-ad920836604d">
+
+<img width="802" alt="Ekran Resmi 2023-07-02 21 25 49" src="https://github.com/oguzhan-klyc/Bootcamp_OUA_App/assets/136269853/fad597aa-a02f-4f36-bac0-1645f747e8ef">
+
  
 - **Sprint Review**: 
 
